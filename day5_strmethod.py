@@ -1,0 +1,9 @@
+n="vaihnavipriya"
+#print(n.isalpha())
+#print(n.isnumeric())
+#print(n.isascii())
+#print(n.isupper())
+#print(n.islower())
+#print(n.istitle())
+#print(n.isdigit())
+print(n.isalnum())

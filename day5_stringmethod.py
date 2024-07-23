@@ -1,0 +1,10 @@
+n="vaishnavi"
+#print(n.upper())
+#print(n.lower())
+#print(n.title())
+#print(n.swapcase())
+#print(n.split())
+#print(n.strip())
+#print(n.replace('i','v'))
+#print(n.capitalize())
+print(n)
